@@ -1,3 +1,6 @@
+#For python 2.7, 
+#pip install (import name)
+
 import cookielib
 import urllib
 import urllib2
